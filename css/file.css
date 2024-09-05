@@ -40,7 +40,7 @@ ul{
   background-size: cover;
   height: 100vh;
   position: relative;
-  zoom: 90%;
+
 }
 .overlay1{
   position: absolute;
@@ -556,9 +556,7 @@ ul{
 }
 /* //////////section9////////////// */
 .sec9{
-  height: 600px;
-  background-color: black;
-  zoom: 70%;
+  height: 600px;  background-color: black;
 }
 .parent-9{
   overflow: auto;
@@ -639,7 +637,6 @@ ul{
 .sec10{
   background-color: rgb(228, 228, 228);
   height: 100vh;
-  zoom: 70%;
 }
 .sec10-header{
   color: black;
