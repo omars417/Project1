@@ -40,6 +40,7 @@ ul{
   background-size: cover;
   height: 100vh;
   position: relative;
+  zoom: 90%;
 }
 .overlay1{
   position: absolute;
@@ -467,7 +468,7 @@ ul{
 }
 .h3-circle{
   font-size: 35px;
-  padding: 12px 0px;
+  padding: 10px 0px;
 }
 .p-circle{
     font-weight: bold;
@@ -557,6 +558,7 @@ ul{
 .sec9{
   height: 600px;
   background-color: black;
+  zoom: 90%;
 }
 .parent-9{
   overflow: auto;
@@ -637,6 +639,7 @@ ul{
 .sec10{
   background-color: rgb(228, 228, 228);
   height: 100vh;
+  zoom: 90%;
 }
 .sec10-header{
   color: black;
